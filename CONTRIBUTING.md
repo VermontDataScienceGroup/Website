@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the Burlington Data Scientist repository! We welcome contributions from everyone. To ensure a smooth process, please follow these guidelines:
+Thank you for considering contributing to the Vermont Data Science Group repository! We welcome contributions from everyone. To ensure a smooth process, please follow these guidelines:
 
 ## How to Contribute
 
