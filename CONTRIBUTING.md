@@ -8,7 +8,7 @@ Thank you for considering contributing to the Burlington Data Scientist reposito
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/Burlington_Data_Scientist.git
+    git clone https://github.com/<your user name>/Website.git
     ```
 
 3. **Create a Branch**: Create a new branch for your changes:
@@ -36,7 +36,7 @@ Please adhere to our [Codeof Conduct to ensure a welcoming and inclusive environ
 
 ## Reporting Issues
 
-If you encounter any issues, please report them using the [issue tracker](https://github.com/kefortney/Burlington_Data_Scientist). Provide as much detail as possible to help us resolve the issue quickly.
+If you encounter any issues, please report them using the [issue tracker](https://github.com/VermontDataScienceGroup/Website). Provide as much detail as possible to help us resolve the issue quickly.
 
 ## Community and Behavioral Expectations
 
@@ -47,6 +47,6 @@ If you encounter any issues, please report them using the [issue tracker](https:
 ## Additional Resources
 
 - GitHub Documentation
-- [MarkdownGuide
+- MarkdownGuide
 
 Thank you for contributing!
