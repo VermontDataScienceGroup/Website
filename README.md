@@ -24,11 +24,11 @@ The website consists of the following pages:
 To get started with the website, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<your-username>/burlington-data-scientists.git
+    git clone https://github.com/VermontDataScienceGroup/Website.git
     ```
 2. **Navigate to the repository directory**:
     ```bash
-    cd burlington-data-scientists
+    cd Website
     ```
 3. **Open the HTML files in your preferred code editor**.
 4. **Make any necessary changes** to the content or styling.
