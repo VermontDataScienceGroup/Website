@@ -19,6 +19,18 @@ header {
     margin-right: 1em;
 }
 
+.header-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.header-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
 .header-left h1 {
     margin: 0;
 }
