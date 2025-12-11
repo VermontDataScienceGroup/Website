@@ -1,6 +1,6 @@
-# Burlington Data Scientists Meetup Website
+# Vermont Data Science Group Website
 
-Welcome to the Burlington Data Scientists Meetup website repository! This repository contains the source code for the static HTML website of the Burlington Data Scientists Meetup group.
+Welcome to the Vermont Data Science Group (formerly the Burlington Data Scientists Meetup) website repository! This repository contains the source code for the static HTML website of the Vermont Data Science Group.
 
 ## Table of Contents
 - Introduction
@@ -10,7 +10,7 @@ Welcome to the Burlington Data Scientists Meetup website repository! This reposi
 - License
 
 ## Introduction
-The Burlington Data Scientists Meetup group is a community of data enthusiasts dedicated to sharing knowledge, collaborating on projects, and fostering professional growth. This website serves as a hub for information about our group, including upcoming events, resources, and contact details.
+The Vermont Data Science Group is a community of data enthusiasts dedicated to sharing knowledge, collaborating on projects, and fostering professional growth. This website serves as a hub for information about our group, including upcoming events, resources, and contact details.
 
 ## Pages
 The website consists of the following pages:
