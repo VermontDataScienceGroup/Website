@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the Burlington Data Scientist repository! We welcome contributions from everyone. To ensure a smooth process, please follow these guidelines:
+Thank you for considering contributing to the Vermont Data Science Group repository! We welcome contributions from everyone. To ensure a smooth process, please follow these guidelines:
 
 ## How to Contribute
 
@@ -8,7 +8,7 @@ Thank you for considering contributing to the Burlington Data Scientist reposito
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/Burlington_Data_Scientist.git
+    git clone https://github.com/your-username/Website.git
     ```
 
 3. **Create a Branch**: Create a new branch for your changes:
@@ -36,7 +36,7 @@ Please adhere to our [Codeof Conduct to ensure a welcoming and inclusive environ
 
 ## Reporting Issues
 
-If you encounter any issues, please report them using the [issue tracker](https://github.com/kefortney/Burlington_Data_Scientist). Provide as much detail as possible to help us resolve the issue quickly.
+If you encounter any issues, please report them using the [issue tracker](https://github.com/VermontDataScienceGroup/Website). Provide as much detail as possible to help us resolve the issue quickly.
 
 ## Community and Behavioral Expectations
 
