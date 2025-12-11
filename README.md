@@ -1,6 +1,6 @@
 # Vermont Data Science Group Website
 
-Welcome to the Vermont Data Science Group website repository! This repository contains the source code for the static HTML website of the Vermont Data Science Group.
+Welcome to the Vermont Data Science Group (formerly the Burlington Data Scientists Meetup) website repository! This repository contains the source code for the static HTML website of the Vermont Data Science Group.
 
 ## Table of Contents
 - Introduction
@@ -24,11 +24,11 @@ The website consists of the following pages:
 To get started with the website, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<your-username>/burlington-data-scientists.git
+    git clone https://github.com/VermontDataScienceGroup/Website.git
     ```
 2. **Navigate to the repository directory**:
     ```bash
-    cd burlington-data-scientists
+    cd Website
     ```
 3. **Open the HTML files in your preferred code editor**.
 4. **Make any necessary changes** to the content or styling.
